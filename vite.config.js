@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 // change the string below to "/your-repo-name/"
 export default defineConfig({
   plugins: [react()],
-  base: '/shivankitas-pos/',
+  base: '/Order_Test/',
 })
